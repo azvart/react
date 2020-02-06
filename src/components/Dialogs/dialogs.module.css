@@ -1,0 +1,14 @@
+.item{
+margin: 10px;
+}
+.item a{
+  font-size: 22px;
+}
+.item a:hover{
+  text-decoration: none;
+  color: #000;
+
+}
+.messages{
+
+}

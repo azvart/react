@@ -1,0 +1,24 @@
+.posts{
+  background: #e0e0e0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+.backPosts{
+  background: #bcbcbc;
+
+}
+
+.area{
+  width:100%;
+  padding: 10px;
+}
+.button{
+  border: none;
+  background: #320b86;
+  color:#fff;
+  padding: 10px;
+  border-radius: 10px;
+}
